@@ -1,0 +1,15 @@
+hammer:
+- name: Pipette
+  description: Select object.
+  icon: hammer
+  command: hammer_command hammer
+- name: Pick
+  description: Pick object.
+  icon: hammer
+  command: hammer_command hammer pick
+- name: Area pipette
+  description: Select multiple objects.
+  icon: hammer
+  command: hammer_area
+  initialHeight: 0
+hoe: []
