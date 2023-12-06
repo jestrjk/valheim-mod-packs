@@ -1,0 +1,9 @@
+{
+  "name": "AutomaticFermenters",
+  "description": "Will pull from chests in a configured area and ferment items.  Then store when done.  Configurable time and colored percentage.  Turn off wall checks",
+  "version_number": "1.0.5",
+  "website_url": "https://github.com/tastychickenlegs",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2101"
+  ]
+}
