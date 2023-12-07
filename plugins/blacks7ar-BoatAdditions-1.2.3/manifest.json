@@ -1,7 +1,0 @@
-﻿{
-  "name": "BoatAdditions",
-  "description": "Adds 3 small and 3 new large boats with anchors and lamps and a boatyard that can help you on your journey.",
-  "version_number": "1.2.3",
-  "website_url": "https://www.nexusmods.com/valheim/mods/2444?tab=bugs",
-  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2202"]
-}
