@@ -143,7 +143,6 @@ piece_chest_wood:
     - Swords # Exclude all in group
     - Tier 2 Items # Exclude all in group
     - Bows # Exclude all in group
-    - Food
   includeOverride: # If the item is in the groups above, say, you were using a predefined group but want to override just one item to be ignored and allow pulling it
     - BowFineWood
     - Wood
@@ -163,7 +162,6 @@ piece_chest_blackmetal:
     - Swords # Exclude all in group
     - Tier 2 Items # Exclude all in group
     - Bows # Exclude all in group
-    - Food
   includeOverride: # If the item is in the groups above, say, you were using a predefined group but want to override just one item to be ignored and allow storing it
     - BowFineWood
     - Wood
